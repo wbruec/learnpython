@@ -1,0 +1,1 @@
+print((lambda s: s[::-1])(str(input())))
